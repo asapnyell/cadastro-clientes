@@ -1,0 +1,17 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "Prime Web Studio",
+      "email": "contato@primeweb.com",
+      "servico": "Site 3D Institucional"
+    },
+    {
+      "nome": "Mob",
+      "email": "teste@gmail.com",
+      "servico": "Automação com IA",
+      "id": "ER8jbjNJy0w"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
