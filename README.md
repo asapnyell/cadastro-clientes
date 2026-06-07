@@ -1,5 +1,10 @@
 # 📋 Gerenciador de Clientes
 
+## 👥 Autores
+* **Danyel Henrique**
+* **Gabriel Damasceno**
+
+## 📝 Descrição do Projeto
 Esta é uma aplicação web desenvolvida em **React com Vite** para gerenciar o cadastro de clientes e serviços. O projeto consome uma API REST simulada utilizando o **JSON Server**, permitindo a listagem e a inserção de dados dinamicamente.
 
 ## ✨ Funcionalidades
